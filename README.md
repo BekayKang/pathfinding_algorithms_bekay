@@ -11,13 +11,12 @@ A simple introduction of three algorithms describes on below (Korean):
 
 
 ### Tutorial problem for pathfinding
-![Desktop View](/Problem.png)
+![Desktop View](/Problem.png){: width="200"}
 
 ### Pathfinding results
 1. [**Breath First Algorithm**]
-![Desktop View](/Result_BFS.gif)
+![Desktop View](/Result_BFS.gif){: width="200"}
 2. [**Dijkstra's Algorithm**]
-![Desktop View](/Result_Dijkstra.gif)
+![Desktop View](/Result_Dijkstra.gif){: width="200"}
 3. [**A\* Algorithm**]
-![Desktop View](/Result_Astar.gif)
-
+![Desktop View](/Result_Astar.gif){: width="200"}
