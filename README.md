@@ -14,6 +14,6 @@ A simple introduction of three algorithms describes on below (Korean):
 <center><img src = "./Problem.png" width="40%"></center>
 
 ### Pathfinding results
-|<center>**Breath First Algorithm**</center>|<center>**Dijkstra's Algorithm**</center>|<center>**A\* Algorithm**</center> |
+|<center>Breath First Algorithm</center>|<center>Dijkstra's Algorithm</center>|<center>A* Algorithm</center>|
 |:-----------------------------|:-----------------|--------:|
 | <center><img src = "./Result_BFS.gif" width="100%"></center>          | <center><img src = "./Result_Dijkstra.gif" width="100%"></center>     | <center><img src = "./Result_Dijkstra.gif" width="100%"></center> |
