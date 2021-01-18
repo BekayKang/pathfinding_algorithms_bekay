@@ -11,7 +11,7 @@ A simple introduction of three algorithms describes on below (Korean):
 
 
 ### Tutorial problem for pathfinding
-<center><img src = "./Problem.png" width="40%"></center>
+<center><img src = "./Problem.png" width="32%"></center>
 
 ### Pathfinding results
 |<center>Breath First Algorithm</center>|<center>Dijkstra's Algorithm</center>|<center>A* Algorithm</center>|
